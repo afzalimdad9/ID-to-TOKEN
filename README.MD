@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://visit-counter.vercel.app/">
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FxHERMIS%2FID-to-TOKEN&s=40&c=ffffff&bg=00000000&no=1&ff=digi&tb=&ta=" alt="visits">
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fafzalimdad9%2FID-to-TOKEN&s=40&c=ffffff&bg=00000000&no=1&ff=digi&tb=&ta=" alt="visits">
 </a>
     
 </div>
@@ -16,16 +16,12 @@
   ! 🔥</strong>
 </div>
 
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1136736486516072509/1138239560015433839/image.png" alt="Image Preview">
-  <img src="https://cdn.discordapp.com/attachments/1136736486516072509/1138239590461866015/image.png" alt="Image Preview">
-</div>
-
 ## 🌪️ What does this tool do?
 
 The tool is a wickedly powerful Python script that allows you to generate and check Discord tokens, paving the way for pure chaos and malevolence. Simply run this infernal script, and it will automatically generate tokens With ur desired discord account upon unsuspecting users.
 
 ## ~~Coming Soon!~~
+
 - ~~**Thread**: I will add threads if If this repository reach 10 stars. Check tokens fast as hell So u get your desired account in seconds. 🔥~~
 - don't forget to show your appreciation by giving it a shiny star rating!
 
@@ -56,4 +52,3 @@ This script is meant for educational purposes and should be used responsibly. It
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
